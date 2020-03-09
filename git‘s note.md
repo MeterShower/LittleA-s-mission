@@ -13,5 +13,7 @@
 <font size=6 face="黑体" >Git部分</font>  
 ![image](https://github.com/MeterShower/LittleA-s-mission/blob/master/images/1583764882(1).png)
 ![image](https://github.com/MeterShower/LittleA-s-mission/blob/master/images/1583765854.png)  
-<font size=4 face="黑体" >补充两个：1、git clone 网址 ：作用是下载云端仓库文件 2、git init：初始化，创建本地git仓库</font>  
+<font size=4 face="黑体" >补充两个：1、git clone 网址 ：作用是下载云端仓库文件 2、git init：初始化，创建本地git仓库</font>
+</br>
+仓库地址：https://github.com/MeterShower/LittleA-s-mission.git
 
