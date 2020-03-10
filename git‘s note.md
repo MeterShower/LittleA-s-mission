@@ -15,5 +15,6 @@
 ![image](https://github.com/MeterShower/LittleA-s-mission/blob/master/images/1583765854.png)  
 <font size=4 face="黑体" >补充两个：1、git clone 网址 ：作用是下载云端仓库文件 2、git init：初始化，创建本地git仓库</font>
 </br>
+<font size=4 face="黑体" >z注意：如果在github更改文件后不在本地git pull下来就push上github是不行的！在github做出改变后要在本地git pull再做修改！</font></br>
 仓库地址：https://github.com/MeterShower/LittleA-s-mission.git
 
